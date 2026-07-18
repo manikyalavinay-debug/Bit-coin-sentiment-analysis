@@ -98,6 +98,8 @@ https://github.com/manikyalavinay-debug/Bit-coin-sentiment-analysis/blob/main/fe
 
 https://github.com/manikyalavinay-debug/Bit-coin-sentiment-analysis/blob/main/historical_data.csv
 
+https://github.com/manikyalavinay-debug/Bit-coin-sentiment-analysis/blob/main/Bit%20coin%20sentiment%20Analysis.pdf
+
 ├── historical_data.csv
 
 ├── fear_greed_index.xlsx
