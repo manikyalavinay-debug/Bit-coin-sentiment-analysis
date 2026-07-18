@@ -91,7 +91,12 @@ The notebook includes multiple visualizations such as:
 
 ## 📁 Project Structure
 
-#### File: https://github.com/manikyalavinay-debug/Bit-coin-sentiment-analysis/commit/b3a67f257316a91fadc103caeca2a0c2e13dc7e2
+#### File: 
+https://github.com/manikyalavinay-debug/Bit-coin-sentiment-analysis/commit/b3a67f257316a91fadc103caeca2a0c2e13dc7e2
+
+https://github.com/manikyalavinay-debug/Bit-coin-sentiment-analysis/blob/main/fear_greed_index.xlsx
+
+
 
 ├── historical_data.csv
 
