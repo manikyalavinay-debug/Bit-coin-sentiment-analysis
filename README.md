@@ -91,12 +91,14 @@ The notebook includes multiple visualizations such as:
 
 ## 📁 Project Structure
 
-#### File: "C:\Users\LENOVO\Downloads\ASSIGNMENT.html"
-
+#### File: https://github.com/manikyalavinay-debug/Bit-coin-sentiment-analysis/commit/b3a67f257316a91fadc103caeca2a0c2e13dc7e2
 
 ├── historical_data.csv
+
 ├── fear_greed_index.xlsx
+
 ├── Bitcoin_Sentiment_Analysis.ipynb
+
 ├── README.md
 
 
